@@ -10,7 +10,7 @@
     const array = Uint8Array.from([1, 2, 3]);
     ```
 4. To creat a buffer:
-    ```
+    ```js
     const ab = Buffer.from(array);
     ```
 5. ArrayBuffer back to array: 
